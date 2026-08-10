@@ -45,3 +45,8 @@ The Decision Tree model was evaluated using suitable performance metrics to dete
 
 ## 👩‍💻 Author
 Yuvarani
+
+## 📝 Conclusion
+This project demonstrates how Machine Learning can be used to detect network intrusions. 
+The Decision Tree Classifier was used to classify network traffic and identify potential attacks. 
+The project provides a basic approach for building an effective Intrusion Detection System using Python and Machine Learning.
